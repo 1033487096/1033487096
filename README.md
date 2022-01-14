@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1033487096 Juan Pablo Gutierrez.
+- 👋 Hi, I’m @1033487096 &#8594 Juan Pablo Gutierrez.
 - 👀 I’m interested in programming and computing.
 - 🌱 I’m currently learning engineer and computer science.
 - 💞️ I’m looking to learn all about software/hartware and beyond like aerospace engineering.
